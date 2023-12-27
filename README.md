@@ -1,2 +1,4 @@
 # softposit.py
-A python implementation of softposit
+A python implementation of softposit.
+
+Licensed under GPL. 
